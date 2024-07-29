@@ -14,7 +14,7 @@ Slide1.JPG -> SlideAAAA.JPG \
 Slide2.JPG -> SlideAAAB.JPG  \
 .              .          \
 .              .           \
-.              .           \
+.              .           
 
 ## limitation
 Currently, it is hardcoded, Soon it will take arguments for prefixes and post-fix. 
